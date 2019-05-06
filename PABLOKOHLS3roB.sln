@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PABLOKOHLS3roB", "PABLOKOHLS3roB\PABLOKOHLS3roB.csproj", "{86A145CF-8ECD-43F5-99AA-AD1DFCB8D95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAD piLA", "TAD piLA\TAD piLA.csproj", "{462469B2-D5A4-4F19-9FDD-393E05EF0245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A145CF-8ECD-43F5-99AA-AD1DFCB8D95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A145CF-8ECD-43F5-99AA-AD1DFCB8D95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A145CF-8ECD-43F5-99AA-AD1DFCB8D95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A145CF-8ECD-43F5-99AA-AD1DFCB8D95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462469B2-D5A4-4F19-9FDD-393E05EF0245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462469B2-D5A4-4F19-9FDD-393E05EF0245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462469B2-D5A4-4F19-9FDD-393E05EF0245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462469B2-D5A4-4F19-9FDD-393E05EF0245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E18DF4C1-4FA8-487D-9AB6-EFDE705BC5B6}
+	EndGlobalSection
+EndGlobal
